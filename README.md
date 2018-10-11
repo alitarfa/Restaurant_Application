@@ -1,4 +1,4 @@
-# Resturent_Application
+# Restaurent_Application
 
 ## Backend Technology By Spring Boot and Spring boot Data JPA (hibernate)
 - ## Routes 
@@ -33,4 +33,4 @@
         return this.restaurantService.index();
     }
 ```
-- BataBase
+- ## BataBase
