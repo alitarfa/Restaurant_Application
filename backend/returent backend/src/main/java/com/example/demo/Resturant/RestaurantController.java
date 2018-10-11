@@ -18,15 +18,6 @@ public class RestaurantController {
     @Autowired
     private RestaurantService restaurantService;
 
-    /**
-     * get The List of the Restaurants
-     * @return
-     */
-    @GetMapping("/restaurant")
-    public List<Restaurant> index(){
-        return this.restaurantService.index();
-    }
-
 
     /**
      * this method to display the specific Restaurant by its id
@@ -36,21 +27,21 @@ public class RestaurantController {
         return this.restaurantService.show(id);
     }
 
-    /**
-     * To Create The One Restaurant to DataBase
-     */
-    public void create(){
-
-    }
 
     @GetMapping("/restaurant/{id}/user")
     public List<RestaurantUser> getListRestaurantWithUserReview(@PathVariable int id){
         return this.restaurantService.getListRestaurantWithUserReview(id);
     }
 
-    @GetMapping("/restaurant/user")
-    public List<RestaurantUser> getListRestaurantWithUsers(){
-        return this.restaurantService.getListRestaurantWithUsers();
+
+
+    /**
+     * get The List of the Restaurants
+     * @return
+     */
+    @GetMapping("/restaurant")
+    public List<Restaurant> index(){
+        return this.restaurantService.index();
     }
 
 
