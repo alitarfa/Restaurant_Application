@@ -15,6 +15,7 @@ public class Restaurant {
     private int id;
     private String name;
     private String description;
+    private int moyen;
 
     @OneToMany(mappedBy = "restaurantModel")
     private List<RestaurantUser> restaurantUserSet;
@@ -49,6 +50,14 @@ public class Restaurant {
 
     public void setRestaurantUserSet(List<RestaurantUser> restaurantUserSet) {
         this.restaurantUserSet = restaurantUserSet;
+    }
+
+    public int getMoyen() {
+        return moyen;
+    }
+
+    public void setMoyen(int moyen) {
+        this.moyen = moyen;
     }
 }
 
