@@ -14,14 +14,10 @@
 
 <div style="text-align:center"><img  heigh="600" src ="https://github.com/alitarfa/Restaurant_Application/blob/master/images/img%201.jpg" /></div>
 <br>
-<div style="text-align:center"><img  height="300" src ="https://github.com/alitarfa/Restaurant_Application/blob/master/images/img%202.jpg"/></div>
-<br>
-<img src="https://github.com/alitarfa/Restaurant_Application/blob/master/images/img%203.jpg"/>
-<br>
-<img src="https://github.com/alitarfa/Restaurant_Application/blob/master/images/img%208.jpg"/>
-<div style="text-aling:cente"> 
-    <img scr="https://github.com/alitarfa/Restaurant_Application/blob/master/images/img%207.jpg"/>
-</div>    
+<div style="text-align:center">
+    <img  height="300" src ="https://github.com/alitarfa/Restaurant_Application/blob/master/images/img%202.jpg"/>
+</div>
+
 # Developing a web application using GitHub 
 
 - ## Backend Technology (Spring boot & Spring data JPA)
