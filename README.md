@@ -1,4 +1,8 @@
-# Restaurent_Application
+# Restaurent Application
+	
+<div style="text-align:center"><img  heigh="600" src ="https://github.com/alitarfa/Restaurant_Application/blob/master/images/img%201.jpg" /></div>
+<br>
+
 ## table content
 1. Git	
 2. A short history of Git	 
@@ -10,10 +14,8 @@
 8. Git configuration	 
 9. Developing a web application using GitHub  
 10. Collaboration	 
-11. Implementation	 
+11. Implementation
 
-<div style="text-align:center"><img  heigh="600" src ="https://github.com/alitarfa/Restaurant_Application/blob/master/images/img%201.jpg" /></div>
-<br>
 <div style="text-align:center">
     <img  height="300" src ="https://github.com/alitarfa/Restaurant_Application/blob/master/images/img%202.jpg"/>
 </div>
