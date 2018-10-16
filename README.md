@@ -19,7 +19,11 @@
 </div>
 <br>
 <div style="text-align:center">
-    <img  height="300" src ="https://github.com/alitarfa/Restaurant_Application/blob/master/images/img%204.jpg"/>
+    <img  src ="https://github.com/alitarfa/Restaurant_Application/blob/master/images/img%203.jpg"/>
+</div>
+
+<div style="text-align:center">
+    <img  src ="https://github.com/alitarfa/Restaurant_Application/blob/master/images/img%204.jpg"/>
 </div>
 <br>
 <img src="https://github.com/alitarfa/Restaurant_Application/blob/master/images/img%207.jpg"/>
@@ -48,7 +52,7 @@ in our case we used it to build the frontend of the project where This part conn
   
   in our Case we have used The Fork Method, the follwing image represent what we have done to collaborate :
 
-<img height src="" />
+<img height src="https://github.com/alitarfa/Restaurant_Application/blob/master/images/img%205.jpg" />
 
 
 
