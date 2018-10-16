@@ -17,8 +17,12 @@
 <div style="text-align:center">
     <img  height="300" src ="https://github.com/alitarfa/Restaurant_Application/blob/master/images/img%202.jpg"/>
 </div>
-
-# Developing a web application using GitHub 
+<br>
+<div style="text-align:center">
+    <img  height="300" src ="https://github.com/alitarfa/Restaurant_Application/blob/master/images/img%204.jpg"/>
+</div>
+<br>
+<img src="https://github.com/alitarfa/Restaurant_Application/blob/master/images/img%207.jpg"/>
 
 - ## Backend Technology (Spring boot & Spring data JPA)
 Developed by Ali TARFA 
@@ -35,7 +39,7 @@ Developed by Mohyiddine DILMI
 it is the framework developed by Google to fast The development of the frontend web and mobile Application 
 in our case we used it to build the frontend of the project where This part connected to backend (spring boot Rest) over Http verbs (POST,GET,...) to load and post the data 
 
-<img src="https://github.com/alitarfa/Restaurant_Application/blob/master/images/img%206.jpg"/>
+<img src="https://github.com/alitarfa/Restaurant_Application/blob/master/images/img%208.jpg"/>
 
  - ## How We collaborated in our project :
  by using the Git system we have many methods to collaborate in project like usinig :
