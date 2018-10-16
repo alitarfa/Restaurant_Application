@@ -12,10 +12,13 @@
 10. Collaboration	 
 11. Implementation	 
 
+<div style="text-align:center"><img  heigh="600" src ="https://github.com/alitarfa/Restaurant_Application/blob/master/images/img%201.jpg" /></div>
+<br>
+<div style="text-align:center"><img  height="300" src ="https://github.com/alitarfa/Restaurant_Application/blob/master/images/img%202.jpg"/></div>
+<br>
+<img src="https://github.com/alitarfa/Restaurant_Application/blob/master/images/img%203.jpg"/>
 
-
-
-#  Developing a web application using GitHub 
+# Developing a web application using GitHub 
 
 - ## Backend Technology (Spring boot & Spring data JPA)
 Developed by Ali TARFA 
