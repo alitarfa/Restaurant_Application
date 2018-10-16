@@ -17,6 +17,8 @@
 <div style="text-align:center"><img  height="300" src ="https://github.com/alitarfa/Restaurant_Application/blob/master/images/img%202.jpg"/></div>
 <br>
 <img src="https://github.com/alitarfa/Restaurant_Application/blob/master/images/img%203.jpg"/>
+<br>
+<img src="https://github.com/alitarfa/Restaurant_Application/blob/master/images/img%204.jpg"/>
 
 # Developing a web application using GitHub 
 
@@ -28,15 +30,14 @@ We have used to develope our application (backend)
 
 - The architecture of The Application is  
     Restfull Api : This is our architectur we have being used to build the backend part where The application connected to database over hibernate
-    
-The Follwing image represent the Abstraction of The Architectur 
-<img height=100 src=""/>
-
+ 
 - ## Frontend by Angular 6
 Developed by Mohyiddine DILMI
 - ## Angular 6 framework
 it is the framework developed by Google to fast The development of the frontend web and mobile Application 
 in our case we used it to build the frontend of the project where This part connected to backend (spring boot Rest) over Http verbs (POST,GET,...) to load and post the data 
+
+<img src="https://github.com/alitarfa/Restaurant_Application/blob/master/images/img%206.jpg"/>
 
  - ## How We collaborated in our project :
  by using the Git system we have many methods to collaborate in project like usinig :
