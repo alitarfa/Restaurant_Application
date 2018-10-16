@@ -18,8 +18,10 @@
 <br>
 <img src="https://github.com/alitarfa/Restaurant_Application/blob/master/images/img%203.jpg"/>
 <br>
-<img src="https://github.com/alitarfa/Restaurant_Application/blob/master/images/img%204.jpg"/>
-
+<img src="https://github.com/alitarfa/Restaurant_Application/blob/master/images/img%208.jpg"/>
+<div style="text-aling:cente"> 
+    <img scr="https://github.com/alitarfa/Restaurant_Application/blob/master/images/img%207.jpg"/>
+</div>    
 # Developing a web application using GitHub 
 
 - ## Backend Technology (Spring boot & Spring data JPA)
