@@ -12,7 +12,8 @@ The Follwing image represent the Abstraction of The Architectur
 
 - ## Frontend by Angular 6
 Developed by Mohyiddine DILMI
-- ## Angular 6 it is the framework developed by Google to fast The development of the frontend web and mobile Application 
+- ## Angular 6 framework
+it is the framework developed by Google to fast The development of the frontend web and mobile Application 
 in our case we used it to build the frontend of the project where This part connected to backend (spring boot Rest) over Http verbs (POST,GET,...) to load and post the data 
 
  - ## How We collaborated in our project :
